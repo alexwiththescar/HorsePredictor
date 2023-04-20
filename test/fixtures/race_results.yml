@@ -1,0 +1,83 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2023-04-12
+  region: MyString
+  course: MyString
+  'off': MyString
+  race_name: MyString
+  type: 
+  class: MyString
+  pattern: MyString
+  rating_band: MyString
+  age_band: MyString
+  sex_rest: MyString
+  dist: 1
+  dist_f: 1
+  dist_m: 1
+  going: MyString
+  ran: 1
+  num: 1
+  pos: 1
+  draw: 1
+  ovr_btn: 1.5
+  btn: 1.5
+  horse: MyString
+  age: 1
+  sex: MyString
+  lbs: 1
+  hg: false
+  time: MyString
+  secs: 1.5
+  dec: 1.5
+  jockey: MyString
+  trainer: MyString
+  prize: 1
+  or: 1
+  rpr: 1
+  sire: MyString
+  dam: MyString
+  damsire: MyString
+  owner: MyString
+  comment: MyText
+
+two:
+  date: 2023-04-12
+  region: MyString
+  course: MyString
+  'off': MyString
+  race_name: MyString
+  type: 
+  class: MyString
+  pattern: MyString
+  rating_band: MyString
+  age_band: MyString
+  sex_rest: MyString
+  dist: 1
+  dist_f: 1
+  dist_m: 1
+  going: MyString
+  ran: 1
+  num: 1
+  pos: 1
+  draw: 1
+  ovr_btn: 1.5
+  btn: 1.5
+  horse: MyString
+  age: 1
+  sex: MyString
+  lbs: 1
+  hg: false
+  time: MyString
+  secs: 1.5
+  dec: 1.5
+  jockey: MyString
+  trainer: MyString
+  prize: 1
+  or: 1
+  rpr: 1
+  sire: MyString
+  dam: MyString
+  damsire: MyString
+  owner: MyString
+  comment: MyText
